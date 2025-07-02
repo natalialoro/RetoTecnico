@@ -88,9 +88,6 @@ npx json-server --watch db.json --port 3001
 # Iniciar app React
 npm run dev
 
-📸 Demo Visual
-
-(Puedes grabar un GIF con Loom o ScreenToGif y reemplazar aquí)
 
 ✅ Estado del Proyecto
 
